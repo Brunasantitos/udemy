@@ -17,4 +17,7 @@ if (numero == 8 && numero_2 == 9){
 /* Operador logico: ||(or), ele retorna true caso uma das
 operacoes retorne verdadeiro */
 
+
+  
+
  
