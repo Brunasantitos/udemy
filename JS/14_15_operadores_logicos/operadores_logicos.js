@@ -9,15 +9,29 @@ if (numero == 8 && numero_2 == 9){
 }
 
 /* a sintaxe também pode ser:
+
     if((priorizar um calculo)){
-        console.log()]
+        console.log()
     }
 */
 
 /* Operador logico: ||(or), ele retorna true caso uma das
-operacoes retorne verdadeiro */
+operacoes retorne verdadeiro 
+
+Dependendo da posição do && e || o resultado muda
+
+*/
+
+var nome = "Bruna";
+var idade = 18;
+
+if (nome === "Kayo" && idade === 18){
+    console.log("testando 1!");
+}
+
+else if(nome === "Bruna" || idade !== 17){
+    console.log("Testando 2");
+}
 
 
-  
 
- 
