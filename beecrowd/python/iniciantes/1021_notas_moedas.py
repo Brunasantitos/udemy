@@ -1,6 +1,6 @@
 def NotasMoedas(entrada):
-    print('NOTAS:')
     if 0<= entrada<=1000000.00:
+        print('NOTAS:')
         V100 = entrada // 100
         print(f'{V100:.0f} nota(s) de R$ 100.00')
 
