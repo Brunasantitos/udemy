@@ -12,7 +12,7 @@ print(35*'_')
 exemplo para enumerar texto:
 '''
 
-for n, i in enumerate(letra):
+for n, i in enumerate(letra): # in (em)
     print(n, i)
 
 
